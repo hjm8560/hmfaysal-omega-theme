@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:          http://hmfaysal.me/hmfaysal-omega-theme
+url:          https://hjm8560.github.io
 # baseurl:           
 
 # Gems used
@@ -42,15 +42,15 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
+  name:           허정민
   picture:        your-photo.jpg
-  email:          your@email.com
+  email:          gjwjdals96@naver.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    제주대학교 컴퓨터공학전공 16학번
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
-  github:
+  github: https://github.com/hjm8560
   linkedin:
   instagram:
   tumblr:
